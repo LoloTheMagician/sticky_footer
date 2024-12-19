@@ -1,11 +1,10 @@
 {
   "name": "sticky_footer",
   "version": "1.0.0",
-  "main": "index.js",
+  "source": "index.html",
   "scripts": {
     "start": "npx parcel index.html",
-    "build": "npx parcel build",
-    "serve": "cd dist && npx serve"
+    "build": "npx parcel build"
   },
   "keywords": [],
   "author": "",
